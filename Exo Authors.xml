@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<book>
+    <author> 
+        <name>Charles Dickens</name>
+    </author>
+    <author> 
+        <name>Oscar Wild</name>   
+    </author>
+    <title>UTOPIA</title>
+    <SECTION>
+        <title>ONE</title>
+        <CHAPTER>
+            <NAME>ONE</NAME>
+            <paragraph>
+                <NAME>ONE</NAME>
+            </paragraph>
+            <paragraph>
+                <NAME>TWO</NAME>
+            </paragraph>
+        </CHAPTER>       
+        <CHAPTER>
+            <NAME>TWO</NAME>
+            <paragraph>
+                <NAME>ONE</NAME>
+            </paragraph>
+            <paragraph>
+                <NAME>TWO</NAME>
+            </paragraph>
+        </CHAPTER>
+    </SECTION>
+    <SECTION>
+        <title>TWO</title>
+        <CHAPTER>
+            <NAME>ONE</NAME>
+            <paragraph>
+                <NAME>ONE</NAME>
+            </paragraph>
+            <paragraph>
+                <NAME>TWO</NAME>
+            </paragraph>
+        </CHAPTER>       
+        <CHAPTER>
+            <NAME>TWO</NAME>
+            <paragraph>
+                <NAME>ONE</NAME>
+            </paragraph>
+            <paragraph>
+                <NAME>TWO</NAME>
+            </paragraph>
+        </CHAPTER>
+    </SECTION>   
+</book>
