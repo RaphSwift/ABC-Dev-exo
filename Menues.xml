@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<menus>
+<menu1>
+    <price>30£</price>
+
+         <starter id="1"> 
+        <name>Confit cod with onion sauce and mullet roe</name>
+        <description>The cod in this luxurious recipe from Teresa
+         Buongiorno is marinated in a heady blend of herbs before being confited in olive 
+        oil for a gorgeously tender finish. The punchy mullet roe that is used to garnish 
+        is counteracted by candied lemon zest and a silky smooth onion cream.</description>
+            </starter>
+
+         <starter id="2"> 
+        <name>Sous vide salted cod, avocado, sea vegetables, cucumber</name>
+        <description>Showcasing the tender flesh of cod belly, this starter by Paul Foster 
+        is an elegant way to get to grips with this underused part of the fish. Paired 
+        simply with avocado emulsion and lightly salted cucumber, this dish is a great 
+        combination of fresh, clean flavours.</description>
+            </starter>
+
+         <starter id="3"> 
+        <name>Fritelle di Merluzzo (Cod and vegetable fritters)</name>
+        <description>Paul Ainsworth transforms the flavours of bubble and squeak into these elegant cod 
+        fritters which make perfect appetizers or snacks. Traditionally made in Italy with 
+        salt cod, or baccala, this version is easy to make at home.</description>
+            </starter>
+
+         <main1> 
+        <name>Cured sea trout with garden pea, nasturtium and langoustine dashi</name>
+        <description>Phil Fanning's exciting seafood recipe is a feast of the senses, celebrating several key cuisines,
+        ingredients and techniques. Sea trout is both lightly cured and served in Italian tortellini, 
+        while there is Japanese influence in the form of the langoustine dashi and the dried shiitake 
+        marinade.</description>
+            </main1>
+
+         <main2> 
+        <name>Grilled fillets of sea bass with herb risotto, roasted cherry tomatoes and pesto</name>
+        <description>With flavours reminiscent of the Mediterranean, this fish recipe from Martin Wishart 
+        is a beautiful way of serving crisp-skinned sea bass. The richness of the herb and mascarpone risotto base is 
+        countered by the vibrancy of roasted cherry tomatoes and a fragrant basil pesto.</description>
+            </main2>
+
+         <main3> 
+        <name>Orange and pink risotto</name>
+        <description>The striking colours and presentation of Josh Eggleton's vegetarian dish are sure to make it a 
+        new go-to favourite. With layers of carrot and beetroot barley risottos, tender roasted butternut squash 
+        cubes and crunchy almonds, these flavours are sure to match style with flavour. Swap the Parmesan for a
+         vegetable rennet-based hard cheese if cooking for vegetarians.</description>
+            </main3>
+            
+        <cheese>cheddar</cheese>
+            
+        <dessert1>
+        <name>Poached cherries in spiced red wine syrup</name>
+        <description>Make the most of cherry season with Maria Grazia Soncini's quick and easy dessert recipe,
+         where plump cherries are gently poached in a lightly spiced red wine syrup. Delicious served hot or
+        cold, they can also be stored in their syrup for several days and used to add a rich sharpness to ice 
+        cream, yoghurt or cereal.</description>
+            </dessert1>
+
+        <dessert2>
+        <name>Pecan pie</name>
+        <description>This stunning pecan pie recipe by Andy McLeish will give you all the sweetness you need this 
+        Thanksgiving. This classic American recipe is not for dieters, so why not throw caution to the wind by 
+        serving with a healthy dollop of clotted or Chantilly cream.</description>
+            </dessert2>
+
+        <dessert3>
+        <name>Chocolate torte</name>
+        <description>This glorious chocolate torte recipe from Shaun Hill tastes as good as it looks. With a cocoa
+         biscuit base and silky chocolate ganache topping, this is a deeply decadent dessert that is surprisingly 
+         simple to make.</description>
+            </dessert3>
+    </menu1>
+
+     <menu2>
+        <price>20£</price>
+
+         <starter1> 
+        <name>Confit cod with onion sauce and mullet roe</name>
+        <description>The cod in this luxurious recipe from Teresa
+         Buongiorno is marinated in a heady blend of herbs before being confited in olive 
+        oil for a gorgeously tender finish. The punchy mullet roe that is used to garnish 
+        is counteracted by candied lemon zest and a silky smooth onion cream.</description>
+            </starter1>
+
+         <starter2> 
+        <name>Sous vide salted cod, avocado, sea vegetables, cucumber</name>
+        <description>Showcasing the tender flesh of cod belly, this starter by Paul Foster 
+        is an elegant way to get to grips with this underused part of the fish. Paired 
+        simply with avocado emulsion and lightly salted cucumber, this dish is a great 
+        combination of fresh, clean flavours.</description>
+            </starter2>
+
+         
+
+         <main1> 
+        <name>Cured sea trout with garden pea, nasturtium and langoustine dashi</name>
+        <description>Phil Fanning's exciting seafood recipe is a feast of the senses, celebrating several key cuisines,
+        ingredients and techniques. Sea trout is both lightly cured and served in Italian tortellini, 
+        while there is Japanese influence in the form of the langoustine dashi and the dried shiitake 
+        marinade.</description>
+            </main1>
+
+         <main2> 
+        <name>Grilled fillets of sea bass with herb risotto, roasted cherry tomatoes and pesto</name>
+        <description>With flavours reminiscent of the Mediterranean, this fish recipe from Martin Wishart 
+        is a beautiful way of serving crisp-skinned sea bass. The richness of the herb and mascarpone risotto base is 
+        countered by the vibrancy of roasted cherry tomatoes and a fragrant basil pesto.</description>
+            </main2>
+
+            
+        <dessert1>
+        <name>Poached cherries in spiced red wine syrup</name>
+        <description>Make the most of cherry season with Maria Grazia Soncini's quick and easy dessert recipe,
+         where plump cherries are gently poached in a lightly spiced red wine syrup. Delicious served hot or
+        cold, they can also be stored in their syrup for several days and used to add a rich sharpness to ice 
+        cream, yoghurt or cereal.</description>
+            </dessert1>
+
+        <dessert2>
+        <name>Pecan pie</name>
+        <description>This stunning pecan pie recipe by Andy McLeish will give you all the sweetness you need this 
+        Thanksgiving. This classic American recipe is not for dieters, so why not throw caution to the wind by 
+        serving with a healthy dollop of clotted or Chantilly cream.</description>
+            </dessert2>
+
+        
+    </menu2>
+
+    <menu3>
+        <price>15£</price>
+
+         <starter> 
+        <name>Confit cod with onion sauce and mullet roe</name>
+        <description>The cod in this luxurious recipe from Teresa
+         Buongiorno is marinated in a heady blend of herbs before being confited in olive 
+        oil for a gorgeously tender finish. The punchy mullet roe that is used to garnish 
+        is counteracted by candied lemon zest and a silky smooth onion cream.</description>
+            </starter>
+
+         
+
+         <main> 
+        <name>Cured sea trout with garden pea, nasturtium and langoustine dashi</name>
+        <description>Phil Fanning's exciting seafood recipe is a feast of the senses, celebrating several key cuisines,
+        ingredients and techniques. Sea trout is both lightly cured and served in Italian tortellini, 
+        while there is Japanese influence in the form of the langoustine dashi and the dried shiitake 
+        marinade.</description>
+            </main>
+
+         
+            
+        <dessert>
+        <name>Poached cherries in spiced red wine syrup</name>
+        <description>Make the most of cherry season with Maria Grazia Soncini's quick and easy dessert recipe,
+         where plump cherries are gently poached in a lightly spiced red wine syrup. Delicious served hot or
+        cold, they can also be stored in their syrup for several days and used to add a rich sharpness to ice 
+        cream, yoghurt or cereal.</description>
+            </dessert>
+
+        
+     
+    </menu3>
+</menus>
