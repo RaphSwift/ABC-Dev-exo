@@ -24,19 +24,18 @@ public class Ex3aireCirc {
 				r = sc.nextFloat();
 				//écrire "Afficher an angle a"
 				System.out.println("Afficher an angle a");
+				//lire angleA
+				anglea = sc.nextFloat();
 				
 				//PROCCESSING
 				
 				//aireR <--(4pR²A/360)
-				airer=(4*Math.PI*Math.pow(r,2)/360);
+				airer=(4*Math.PI*Math.pow(r,2)*anglea/360);
 				
 				//output
 				
 				//écrire "L'aire de secteur circulaire est:", aire
 				System.out.println("L'aire de secteur circulaire est:"+airer);
-
-				
-
 	}
 
 }
