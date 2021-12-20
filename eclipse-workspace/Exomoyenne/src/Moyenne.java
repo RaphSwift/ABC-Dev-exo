@@ -32,6 +32,25 @@ public class Moyenne {
 		//moyenne <--(nombre1+nombre2)/2
 		moyenne = (nombre1+nombre2)/2;
 		
+		//SI (moyenne <=10) Alors
+		if (moyenne >=10) {
+		//	
+		}
+		//SINON
+		else {
+		//  moyenne <-- moyenne + 1
+			moyenne = moyenne + 1;
+		//FINSI
+		}
+	
+		
+		//Si (moyenne<10) Alors
+		if (moyenne < 10) {
+		//moyenne <--moyenne + 1
+			moyenne = moyenne + 1;
+		//FinSI
+		}
+		
 		//AFFICHAGE
 		//ecrire "des la valeur moyenne est:" moyenne
 		System.out.println("la moyenne des 2 nombres=" +moyenne); 

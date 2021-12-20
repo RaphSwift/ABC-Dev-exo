@@ -16,7 +16,6 @@ public class Ex2airevolume {
 
 		//SAISIES
 		//ECRIRE "Input the radius of a sphere"
-		
 		System.out.println("Input radius of the sphere");
 		//LIRE rayon r
 		Scanner sc = new Scanner(System.in);
