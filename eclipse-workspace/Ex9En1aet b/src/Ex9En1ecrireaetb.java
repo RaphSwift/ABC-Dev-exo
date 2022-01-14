@@ -6,41 +6,24 @@ public class Ex9En1ecrireaetb {
 		// TODO Auto-generated method stub
 
 
-		//réel a
-		//réel b
+		int a; 									//entier a
+		int b; 									//entier b
+
+		Scanner sc = new Scanner (System.in); 	//créer un scanner 
 		
-		//écrire "Saisir a"
-		//écrire "Saisir b"
-		//lire a
-		//lire b
-
-		//si (a>b)       alors
-
-		//écrire ‘’Afficher a> b’’
-		//Sinon si (a<b) alors
-		//écrire ‘’Afficher a < b‘’
-		//Sinon
-		//Ecrire ‘’Afficher a=b’’
-		//Finsi
-
-		float a;
-		float b;
-
-		Scanner sc = new Scanner (System.in);
+		System.out.println("Saisir a"); 		//ecrire "saisir a"
+		a = sc.nextInt(); 						//lire a
+		System.out.println("Saisir b"); 		//ecrire "saisir a"
+		b = sc.nextInt(); 						//lire b
 		
-		System.out.println("Saisir a");
-		a = sc.nextFloat();
-		System.out.println("Saisir b");
-		b = sc.nextFloat();
-		
-		if (a>b) {
-			System.out.println("Afficher a>b");
+		if (a>b) {  							//si (a>b) 
+			System.out.println("Afficher a>b"); //alors ecrire 'a > b'
 		}	
-		else if (a<b) {
-			System.out.println("Afficher a<b");
+		else if (a<b) { 						//sinon si (a<b) 
+			System.out.println("Afficher a<b"); //alors ecrire 'a < b'
 		}
-		else {
-			System.out.println("Afficher a=b");
+		else {									//sinon 
+			System.out.println("Afficher a=b"); //ecrire 'a = b'
 		}
 	}
 }
