@@ -20,10 +20,11 @@ public class bopasbobovary {
 		//écrire  "J’irai faire du vélo, s’il fait beau demain"
 		//écrire  "Est-ce qu’il fait beau ? OUI/NON"
 		//lire  beauTemps
+		Scanner sc = new Scanner (System.in);
 		
 		System.out.println("J’irai faire du vélo, s’il fait beau demain.");
 		System.out.println("Est-ce qu’il fait beau ? oui/non");
-		Scanner sc = new Scanner (System.in);
+		
 		beauTemps = sc.next();
 		
 		//si (beauTemps == ‘’oui’’)
