@@ -22,7 +22,7 @@ public class AdultUnderage {
 		System.out.println("Thank you" + " " + name + ". You are" + " "+age + ".");
 		
 		if (age >=18) {
-			System.out.println("You are a gown-up.");
+			System.out.println("You are a grown-up.");
 		}
 		else {
 			System.out.println("You are an underage individual.");

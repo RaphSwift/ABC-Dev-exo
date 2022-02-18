@@ -4,7 +4,7 @@ public class WHILEnPremierREFAIRE {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Lire un nombre N et déterminer s’il est un nombre premier.
+		//1.6 Lire un nombre N et déterminer s’il est un nombre premier.
 		
 		int n;
 		int d;
