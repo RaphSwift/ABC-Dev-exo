@@ -15,29 +15,29 @@ public class ex23fourchette {
 
 		
 		int nbComputer;
-		int nbGamer;
-		boolean find=false;
+		int nbPlayer;
 		int nbTries=0;
-
 		int min=0;
 		int max=100;
+		boolean find=false;
+		
 		Scanner sc = new Scanner(System.in);
 		Random aleas=new Random();
 		nbComputer=aleas.nextInt(101);
 		
 		do {
 			System.out.println("Enter a number between " + min + " and " + max + ".");
-			nbGamer  = sc.nextInt();
+			nbPlayer  = sc.nextInt();
 				
-			if (nbGamer>nbComputer){
-				max=nbGamer;	
+			if (nbPlayer>nbComputer){
+				max=nbPlayer;	
 			}
-			else if (nbGamer<nbComputer){
-				min=nbGamer;
+			else if (nbPlayer<nbComputer){
+				min=nbPlayer;
 			}
 			else
 			{
-				System.out.println("Bingo! You found it! The number you've been looking for is: "+ nbGamer);
+				System.out.println("Bingo! You found it! The number you've been looking for is: "+ nbPlayer);
 				find =true;
 			}
 			nbTries++;
