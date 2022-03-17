@@ -39,8 +39,7 @@ public class ex225jeu02 {
 				retry=false;
 				System.out.println("Game over.");	
 			}
-			else
-			{
+			else {
 				if ((nbPlayer < nbComputer) && ((nbComputer - nbPlayer)==2)) {
 					System.out.println("Computer earned 1 point.");
 					scoreComputer++;
